@@ -8,4 +8,5 @@ The case study is based on a computer hardware business which is facing challeng
 
 This is one of the project management tool used to clarify a task and keep the process simple. This tool presents a project in the most concise way.
 
+![Alt text](Screenshot (191).png)
 
