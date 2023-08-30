@@ -14,7 +14,7 @@ This is one of the project management tool used to clarify a task and keep the p
 
 ## Database Schema
 <p align="center">
-  <img src="Screenshot (191).png" width="350" title="hover text">
+  <img src="Screenshot (196).png" width="350" title="hover text">
 </p>
 
 
