@@ -31,6 +31,11 @@ This is one of the project management tool used to clarify a task and keep the p
 
 ---> The transactions sales are in USD and we need to convert it to INR.
 
+## Dashboard 
+<p align="center">
+  <img src="Screenshot (197).png" width="500" title="hover text">
+</p>
+
 
 
 
