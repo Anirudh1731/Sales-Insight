@@ -17,6 +17,13 @@ This is one of the project management tool used to clarify a task and keep the p
   <img src="Screenshot (196).png" width="350" title="hover text">
 </p>
 
+## Data Modelling (Star Schema)
+<p align="center">
+  <img src="Screenshot (196).png" width="350" title="hover text">
+</p>
+
+
+
 
 
 
