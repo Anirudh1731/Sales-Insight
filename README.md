@@ -33,7 +33,7 @@ This is one of the project management tool used to clarify a task and keep the p
 
 ## Dashboard 
 <p align="center">
-  <img src="Screenshot (197).png" width="500" title="hover text">
+  <img src="Screenshot (198).png" width="550" title="hover text">
 </p>
 
 
